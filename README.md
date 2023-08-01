@@ -2,9 +2,9 @@
 
 ## Info
 
-```bash
+
 This API is written by [Fatih Akdogan](https://github.com/0x178F) (0x178F), updated to the latest version by [Ruslan](https://github.com/frqher) (frqher).
-```
+
 
 ## Usage:
 ```bash
