@@ -1,5 +1,11 @@
 # Shopier Api
 
+## Info
+
+```bash
+This API is written by Fatih Akdogan (0x178F), updated to the latest version by Ruslan (frqher).
+```
+
 ## Usage:
 ```bash
 npm install shopier-api
