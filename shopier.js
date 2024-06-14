@@ -149,7 +149,7 @@ class Shopier {
   }
 
   #getCurrency() {
-    return 'TRY';
+    return '0';
   }
 
   #lang() {
